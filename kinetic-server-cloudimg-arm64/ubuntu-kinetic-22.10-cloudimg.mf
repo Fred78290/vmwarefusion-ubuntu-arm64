@@ -1,0 +1,2 @@
+SHA256(ubuntu-kinetic-22.10-cloudimg.vmdk)= e6d3735b8873f77606f44fad435aeb8576d4ea4038bd3501c7838da3aee6ac65
+SHA256(ubuntu-kinetic-22.10-cloudimg.ovf)= 81ebd40763f68c341f8762979c3b4e0bda51b7c34148f6c8c38650c57567223c

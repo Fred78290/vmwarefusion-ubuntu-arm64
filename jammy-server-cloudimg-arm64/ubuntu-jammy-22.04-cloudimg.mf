@@ -1,0 +1,2 @@
+SHA256(ubuntu-jammy-22.04-cloudimg.vmdk)= 831ba823a3210f7f72ca337bc600d78deaf9f8db2c41419b65d02c842a30c109
+SHA256(ubuntu-jammy-22.04-cloudimg.ovf)= 75b661b5b69cb8d704bf953584e36c15567033f9c8878e9a5708baa94a56e158

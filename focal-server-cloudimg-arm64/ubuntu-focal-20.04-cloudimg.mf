@@ -1,0 +1,2 @@
+SHA256(ubuntu-focal-20.04-cloudimg.vmdk)= 7125846d8d59dcbfcba3df1a29b672a2528f09055cef4ea89ab4e9cb3896b3f2
+SHA256(ubuntu-focal-20.04-cloudimg.ovf)= 54fb08642d9c9dd164130cc7c987b0b6e23150b8e929037814d2d0008cb2eedd
