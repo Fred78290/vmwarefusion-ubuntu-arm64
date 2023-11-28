@@ -15,7 +15,7 @@ fi
 
 SIZE_VMDK=$(stat ${ROOT_NAME}.vmdk | cut -d ' ' -f 8)
 
-sed -i s/ovf:size=.*\ /ovf:size=\"$SIZE_VMDK\"\ / ${ROOT_NAME}.ovf
+sed -i s/ovf:size=.*\ /ovf:size=\"$SIZE_VMDK\"\ ${ROOT_NAME}.ovf
 
 SHA_OVF=$(sha256sum ${ROOT_NAME}.ovf | cut -d ' ' -f 1)
 SHA_VMDK=$(sha256sum ${ROOT_NAME}.vmdk | cut -d ' ' -f 1)
